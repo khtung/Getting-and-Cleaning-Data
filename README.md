@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting and Cleaning Data Course Project README.md
 
 Use source('run_analysis.R') you can get 
@@ -90,3 +91,7 @@ tidyDataSet <- labeledDataSet %>%
 
 # Output the labeledDataSet to a file named as didyDataSet.
 write.table(tidyDataSet, file ='./tidyDataSet.txt', row.names= FALSE)
+=======
+# Getting-and-Cleaning-Data
+coursera course: Getting and Cleaning Data project
+>>>>>>> 320ac1865a2c0147b19bf0338e55c1330aab196b
